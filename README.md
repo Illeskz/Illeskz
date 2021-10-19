@@ -10,8 +10,8 @@
 ### :pouting_man: A little bit about me:
 I'm electronic engineer, I like the technology and the way you can help others with it, I'm apassionate about continuous development, data analytincs, investments and cloud. I enjoy working with Python. I've worked on entrepreneurships projects with micro controllers, drones and cloud providers. 
 
-- 🔭 I´m currently working as Technology consultant at [Hewlett Packard Enterprise](http://www.hpe.com/)
-- 🌱 I’m currently learning Python
+- 🔭 I´m currently working as Technology consultant at [Hewlett Packard Enterprise](http://www.hpe.com/) 
+- 🌱 I’m currently learning Python and student of  ![Platzi Master](https://img.shields.io/badge/Platzi%20Master-C8-95ca3e)
 - 💬 I'm interested to share my experience with you
 - 😄 My pronouns are he/him 
 
